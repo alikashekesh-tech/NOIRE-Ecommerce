@@ -1,0 +1,3 @@
+# NOIRÉ demo — indexing disabled. Replace for production launch.
+User-agent: *
+Disallow: /
